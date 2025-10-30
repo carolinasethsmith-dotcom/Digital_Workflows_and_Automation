@@ -18,7 +18,7 @@ This repository explores **automation tools and workflows** to streamline tasks 
 - Action: Extract metadata
 - Automation: Generate a summary
 - Output: Save to report or send via email
-- 
+  
 ## 🚀 Next Steps
 - Add real examples (data labeling automation, document management, reporting).
 - Build templates for reproducible workflows.
